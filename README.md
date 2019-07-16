@@ -1,6 +1,6 @@
 # Bookmark-shortcut-for-Chrome-for-Checkmark-Select
 
-##SETUP
+## SETUP
 1. Open Chrome.
 2. Right click in bookmarks toolbar.
 3. Click Add Page
@@ -12,7 +12,7 @@
 
 6. Save.
 
-##RUN
+## RUN
 To run, you will need to be in your CMS
 1. Copy your line-break seperated list to paste into the box with the names of the stuff you want checkmarked.
 2. While the CMS page is open, click the bookmark you named above "Quick Checkmark Selector".
